@@ -12,3 +12,48 @@
 .navbar-nav li{
     padding: 0 20px;
 }
+.dropdown-menu{
+    background-color: #073b59 !important;
+}
+.dropdown-menu li a:hover{
+    background-color: #fe5000cc;
+}
+/************botão laranja************/
+.btn-unipam{
+    color: #FFF !important;
+    background-color: #fe5000cc !important;
+}
+.btn-unipam:hover{
+    color: #FFF !important;
+    background-color: #073b59 !important;
+    border: 1px solid #FFF !important;
+}
+.espacamento{
+    margin: 60px 0px !important;
+}
+/********* estilo do card *******************/
+.bg-card{
+    background-color: #073b59 !important;
+    color: #FFf !important;
+}
+.btn-card{
+    color: #FFF !important;
+    background-color: #073b59 !important;
+    border: 1px solid #FFF !important;
+}
+.btn-card:hover{
+    color: #073b59 !important;
+    background-color: #FFF !important;
+}
+
+/*************** Notícia ************/
+
+.noticia{
+    background-color: #497a97;
+    padding: 60px 0px;
+}
+
+.titulo{
+    text-align: center;
+    color: #073b59;
+}
