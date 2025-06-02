@@ -35,6 +35,7 @@
 .bg-card{
     background-color: #073b59 !important;
     color: #FFf !important;
+    border: 1px solid #073b59 !important;
 }
 .btn-card{
     color: #FFF !important;
@@ -44,16 +45,31 @@
 .btn-card:hover{
     color: #073b59 !important;
     background-color: #FFF !important;
+    border: 1px solid #073b59 !important;
 }
-
-/*************** Notícia ************/
-
+/********************** noticia *********************/
 .noticia{
-    background-color: #497a97;
+    background-color: #ecf0f5;
     padding: 60px 0px;
 }
-
-.titulo{
-    text-align: center;
-    color: #073b59;
+.noticia h3{
+    color: #073b59 !important;
+    font-size: 2.75rem;
+    margin-bottom: 30px;
 }
+/**************** footer***************************/
+.bg-footer{
+    background-color: #073b59 !important;
+    color: #FFF !important;
+}
+.bg-footer a{
+    color: #FFF;
+    font-size: 1.75rem;
+}
+
+
+
+
+
+
+
